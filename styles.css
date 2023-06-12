@@ -1,0 +1,65 @@
+h1 {
+    color: gold;
+    text-align: center;
+}
+
+h2 {
+    color: gold;
+    text-align: center;
+}
+
+p {
+    color: springgreen;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+#corner-button {
+    margin-top: 5px;
+    margin-right: 5px;
+    position:absolute;
+    top:0;
+    right:0;
+}
+
+.container1 {
+    margin: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid red;
+    width: 200px;
+    padding: 5px;
+}
+
+.container2 {
+    border: 1px solid blue;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+}
+
+.left-element {
+    display: block;
+    float: left;
+    margin-left: 25px;
+}
+
+.right-element {
+    display: block;
+    float: right;
+    margin-right: 25px;
+}
+
+.container3 {
+    margin: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid violet;
+    width: 200px;
+    padding: 5px;
+}
